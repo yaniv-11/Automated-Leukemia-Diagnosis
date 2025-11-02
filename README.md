@@ -1,11 +1,17 @@
 
 # Automated Leukemia Diagnosis 🔬🩸
+<img width="1920" height="2209" alt="screencapture-localhost-8501-2025-11-02-11_32_45" src="https://github.com/user-attachments/assets/21b6cbcf-343a-429a-8bd0-4feff46e7536" />
+
+
 dataset link: https://www.kaggle.com/datasets/vinay1110/luekemia-detection-blood-smear-images
 
 
 Hybrid model
 detection model link: https://www.kaggle.com/code/vinay1110/og-model/output?scriptVersionId=266804856
+
 classification model link: https://www.kaggle.com/code/vinay1110/class/output
+
+notebook:https://www.kaggle.com/code/vinay1110/fork-of-fork-of-og-model
 
 
 
