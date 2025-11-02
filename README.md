@@ -284,7 +284,8 @@ Cancerous (False Negatives: 27, True Positives: 358)
 ---
 
 classification model
-<img width="2048" height="2048" alt="Gemini_Generated_Image_3p8zw93p8zw93p8z" src="https://github.com/user-attachments/assets/e89014b9-c4df-4413-8f48-72ec24d06173" />
+![transformer+cnn](https://github.com/user-attachments/assets/d08341fd-2aa8-4966-b66b-986d9c79e04a)
+
 
 hybrid CNN-Transformer model designed for the automated diagnosis of leukemia from microscope images. The model classifies images into two categories: ALL (Acute Lymphoblastic Leukemia) and HEM (Healthy).
 
