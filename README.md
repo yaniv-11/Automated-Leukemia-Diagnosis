@@ -1,3 +1,7 @@
+Live APP :  https://huggingface.co/spaces/Vinay-11/Leukemia-Analysis
+
+
+
 
 # Automated Leukemia Diagnosis 🔬🩸
 <img width="1920" height="2209" alt="screencapture-localhost-8501-2025-11-02-11_32_45" src="https://github.com/user-attachments/assets/21b6cbcf-343a-429a-8bd0-4feff46e7536" />
