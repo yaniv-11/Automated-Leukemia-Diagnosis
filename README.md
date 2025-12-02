@@ -4,7 +4,8 @@ Live APP :  https://huggingface.co/spaces/Vinay-11/Leukemia-Analysis
 
 
 # Automated Leukemia Diagnosis 🔬🩸
-<img width="1920" height="2209" alt="screencapture-localhost-8501-2025-11-02-11_32_45" src="https://github.com/user-attachments/assets/21b6cbcf-343a-429a-8bd0-4feff46e7536" />
+<img width="1920" height="1591" alt="image" src="https://github.com/user-attachments/assets/5dc8ccd7-a7e1-4cc3-9c25-550bcb580a29" />
+
 
 
 dataset link: https://www.kaggle.com/datasets/vinay1110/luekemia-detection-blood-smear-images
